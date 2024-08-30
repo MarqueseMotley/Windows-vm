@@ -2,7 +2,7 @@
 Windows VM set up
 
 
-STEP 1: Enter the search bar and input "virtual machines."
+STEP 1: Input "virtual machines" in the search bar.
 ![Step 1](https://github.com/MarqueseMotley/Windows-vm/assets/165986939/ec06978d-b374-4d36-a631-b05b68b57908)
 
 
